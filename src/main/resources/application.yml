@@ -1,0 +1,7 @@
+#热加载
+devtools:
+  livereload:
+    enabled: true #启动livereload
+    port: 35729
+  restart:
+    enabled: true #开启热加载
